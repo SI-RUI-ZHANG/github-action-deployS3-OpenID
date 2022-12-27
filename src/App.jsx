@@ -11,7 +11,7 @@ function App() {
         <h1>Learn & Master GitHub Actions</h1>
       </header>
       <MainContent />
-        <p>by OpenID connection</p>
+        <p>by OpenID connection!</p>
     </>
   );
 }
